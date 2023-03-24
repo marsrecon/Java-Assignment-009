@@ -58,7 +58,7 @@ NOTE: The use of recursive method calls is not allowed.
 
 ## Part 2 - Submission
 
-* Commit your working code
-* Push it to your Remote/origin branch (i.e. GitHub)
-* Then issue a Pull request to the instructor branch
-* Make sure to save the Pull request URL and submit it for lab credit.
+* Make sure to use the Git tab at the bottom of IntelliJ to create a Spring2023 feature branch
+* Commit and Push your running code back to your GitHub account
+* Issue a Pull request back to my Java-Assignment-009 repo
+* Cut and Paste the Pull request URL into your Canvas assignment to turn it in.
